@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Syzgia 👋
 
-<!--
-**syzgia/syzgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring DevOps Engineer with a deep passion for Linux, infrastructure, CI/CD, and system automation. I love building and optimizing processes behind the scenes.
 
-Here are some ideas to get you started:
+💻 **Systems & Technologies**
+- **OS:** Linux (CachyOS)
+- **Languages & Scripting:** Bash, Python
+- **Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Get in Touch**
+- **Email:** syzgia0@proton.me
+- **X (Twitter):** @syzgia_
+- **GitHub:** @syzgia
