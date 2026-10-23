@@ -15,7 +15,7 @@ I'm an aspiring DevOps Engineer with a deep passion for Linux, infrastructure, C
 
 - **Tools:** Git
 
-<img src="https://skillicons.dev/icons?i=linux,fedora,bash,python,git" alt="Tech icons" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git" alt="Tech icons" />
 
 📬 **Get in Touch**
 - **Email:** syzgia0@proton.me
