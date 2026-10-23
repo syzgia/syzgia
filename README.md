@@ -3,7 +3,7 @@
 I'm an aspiring DevOps Engineer with a deep passion for Linux, infrastructure, CI/CD, and system automation. I love building and optimizing processes behind the scenes.
 
 💻 **Systems & Technologies**
-- **OS:** Linux
+- **OS:** Linux (Fedora)
 
 - **Languages & Scripting:** Bash, Python
 
