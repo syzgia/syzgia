@@ -19,9 +19,6 @@ I'm an aspiring DevOps Engineer with a deep passion for Linux, infrastructure, C
 
 📬 **Get in Touch**
 - **Email:** syzgia0@proton.me
-
-- **X (Twitter):** https://x.com/syzgia_
-
 - **GitHub:** @syzgia
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C6EB4,100:294172&height=100&section=footer" width="100%" />
